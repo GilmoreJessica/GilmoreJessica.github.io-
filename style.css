@@ -1,0 +1,44 @@
+/* Final Project
+   Author: Jessica Gilmore
+   Date: July 25, 2021 */
+
+.container{
+  background-color: #563f46;
+  color: #c8c3cc;
+  box-shadow: 10px 10px 10px 10px;
+}
+
+ /* the words, make 'em purdy' */
+ h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  }
+
+h3, h6 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  }
+
+p{
+  text-align: center;
+ }
+
+img{
+  padding-left: 30px;
+   }
+
+
+/* job description cards */
+div.card {
+  width: 250px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  color: black;
+}
+
+footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 10px;
+}
